@@ -1,0 +1,7 @@
+C:\Users\Hp\AppData\Local\Temporary Projects\Facade\bin\Debug\Facade.exe.config
+C:\Users\Hp\Desktop\Examen328\PREGUNTA 1\C#\Facade\Facade\bin\Debug\Facade.exe.config
+C:\Users\Hp\Desktop\Examen328\PREGUNTA 1\C#\Facade\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\Examen328\PREGUNTA 1\C#\Facade\Facade\bin\Debug\Facade.exe
+C:\Users\Hp\Desktop\Examen328\PREGUNTA 1\C#\Facade\Facade\bin\Debug\Facade.pdb
+C:\Users\Hp\Desktop\Examen328\PREGUNTA 1\C#\Facade\Facade\obj\Debug\Facade.exe
+C:\Users\Hp\Desktop\Examen328\PREGUNTA 1\C#\Facade\Facade\obj\Debug\Facade.pdb

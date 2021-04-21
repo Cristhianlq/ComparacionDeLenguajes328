@@ -1,0 +1,5 @@
+package SeparadoEnClases;
+
+public interface Implementador {
+
+}

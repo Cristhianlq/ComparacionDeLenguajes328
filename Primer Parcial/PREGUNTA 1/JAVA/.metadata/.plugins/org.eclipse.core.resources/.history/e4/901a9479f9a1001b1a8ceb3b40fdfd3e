@@ -1,0 +1,104 @@
+package Fachada;
+
+import java.util.Arrays;
+import java.util.Scanner;
+import java.util.Vector;
+
+class validarCalificacion {
+	String[] alumnosL = { "Marta", "Ana", "Luis", "Rodrigo", "Virginia", "Pepe" };
+	String[] alumnosT = { "Carmen", "Rosario", "Jorge", "Rodrigo", "Virginia", "Pepe" };
+	String[] mTeoricas = { "INF-121", "INF-111", "INF-131", "INF-144", "INF-151", "INF-164" };
+	String[] mLaboratorio = { "LAB-111", "LAB-121", "LAB-131", "LAB-273" };
+
+	private boolean buscarAlumnoTeorica(String nombre) {
+		return Arrays.asList(alumnosT).contains(nombre);
+	}
+
+	private boolean buscarAlumnoLabo(String nombre) {
+		return Arrays.asList(alumnosL).contains(nombre);
+	}
+
+	private boolean buscarMateriaT(String nombreM) {
+		return Arrays.asList(mTeoricas).contains(nombreM);
+	}
+
+	private boolean buscarMateriaL(String nombreL) {
+		return Arrays.asList(mLaboratorio).contains(nombreL);
+	}
+}
+
+class calificar {
+	public void calificarTeorica(String nombreEst) {
+		Scanner Leer = new Scanner(System.in);
+		Vector<Integer> notas = new Vector<Integer>();
+		System.out.println("Introduce la cantidad de examenes a evaluar: ");
+		int numExamenes = Leer.nextInt();
+		for (int i = 0; i < numExamenes; i++) {
+			System.out.println("Introduce sobre cuanto se evaluara el examen: " + (i + 1) + ": ");
+			notas.add(Leer.nextInt());
+		}
+		System.out.println("Evaluando al alumno " + nombreEst);
+		int notaFinal = 0;
+		for (int i = 0; i < numExamenes; i++) {
+			System.out.println(
+					"Nota del examen: " + (i + 1) + ": (Debe estar en el rango definido de " + notas.get(i) + ")");
+			notaFinal += Leer.nextInt();
+		}
+		if (notaFinal >= 51)
+			System.out.println("El estudiante " + nombreEst + " APROBO.");
+		else
+			System.out.println("El estudiante " + nombreEst + " REPROBO.");
+		notas.clear();
+	}
+
+	public void calificarLabo(String nombreEst) {
+		Scanner Leer = new Scanner(System.in);
+		Vector<Integer> notas = new Vector<Integer>();
+		System.out.println("Introduce la cantidad de LABORATORIOS a evaluar: ");
+		int numLabos = Leer.nextInt();
+		for (int i = 0; i < numLabos; i++) {
+			System.out.println("Introduce sobre cuanto se evaluara el laboratorio: " + (i + 1) + ": ");
+			notas.add(Leer.nextInt());
+		}
+		System.out.println("Evaluando al alumno " + nombreEst);
+		int notaFinal = 0;
+		for (int i = 0; i < numLabos; i++) {
+			System.out.println(
+					"Nota del examen: " + (i + 1) + ": (Debe estar en el rango definido de " + notas.get(i) + ")");
+			notaFinal += Leer.nextInt();
+		}
+		if (notaFinal >= 51)
+			System.out.println("El estudiante " + nombreEst + " APROBO.");
+		else
+			System.out.println("El estudiante " + nombreEst + " REPROBO.");
+		notas.clear();
+	}
+}
+
+class Facade {
+	public void calificar() {
+		Scanner Leer = new Scanner(System.in);
+		validarCalificacion validador = new validarCalificacion();
+		calificar calificador = new calificar();
+		System.out.println("Starting Facade \nSelecciona una opcion:");
+		System.out.println("tMENÚ \n1)Materia Teorica \n2)Materia Laboratorio");
+		String opcion = Leer.next();
+		switch (opcion) {
+		case value: {
+
+			yield type;
+		}
+		default:
+			throw new IllegalArgumentException("Unexpected value: " + opcion);
+		}
+	}
+}
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

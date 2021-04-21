@@ -1,0 +1,33 @@
+c:\users\samsung\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+c:\users\samsung\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Calculadora.Form1.resources
+c:\users\samsung\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\samsung\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+c:\users\samsung\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\samsung\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\samsung\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\samsung\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+c:\users\samsung\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+c:\users\samsung\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\samsung\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hp\Desktop\ComparacionDeLenguajes-master\primerExamenParcial\ejercicio2\c# calculadora\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Hp\Desktop\ComparacionDeLenguajes-master\primerExamenParcial\ejercicio2\c# calculadora\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Hp\Desktop\ComparacionDeLenguajes-master\primerExamenParcial\ejercicio2\c# calculadora\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hp\Desktop\ComparacionDeLenguajes-master\primerExamenParcial\ejercicio2\c# calculadora\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Hp\Desktop\ComparacionDeLenguajes-master\primerExamenParcial\ejercicio2\c# calculadora\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hp\Desktop\ComparacionDeLenguajes-master\primerExamenParcial\ejercicio2\c# calculadora\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\Hp\Desktop\ComparacionDeLenguajes-master\primerExamenParcial\ejercicio2\c# calculadora\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Hp\Desktop\ComparacionDeLenguajes-master\primerExamenParcial\ejercicio2\c# calculadora\WindowsFormsApplication1\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\ComparacionDeLenguajes-master\primerExamenParcial\ejercicio2\c# calculadora\WindowsFormsApplication1\obj\Debug\Calculadora.Form1.resources
+C:\Users\Hp\Desktop\ComparacionDeLenguajes-master\primerExamenParcial\ejercicio2\c# calculadora\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hp\Desktop\ComparacionDeLenguajes-master\primerExamenParcial\ejercicio2\c# calculadora\WindowsFormsApplication1\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\Examen328\PREGUNTA 2\C#\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Hp\Desktop\Examen328\PREGUNTA 2\C#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Hp\Desktop\Examen328\PREGUNTA 2\C#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hp\Desktop\Examen328\PREGUNTA 2\C#\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Hp\Desktop\Examen328\PREGUNTA 2\C#\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Hp\Desktop\Examen328\PREGUNTA 2\C#\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\Hp\Desktop\Examen328\PREGUNTA 2\C#\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Hp\Desktop\Examen328\PREGUNTA 2\C#\WindowsFormsApplication1\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\Examen328\PREGUNTA 2\C#\WindowsFormsApplication1\obj\Debug\Calculadora.Form1.resources
+C:\Users\Hp\Desktop\Examen328\PREGUNTA 2\C#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hp\Desktop\Examen328\PREGUNTA 2\C#\WindowsFormsApplication1\obj\Debug\Calculadora.csproj.GenerateResource.Cache

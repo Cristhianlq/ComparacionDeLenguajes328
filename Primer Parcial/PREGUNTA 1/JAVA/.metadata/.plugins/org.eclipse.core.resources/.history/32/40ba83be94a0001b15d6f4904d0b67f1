@@ -1,0 +1,12 @@
+import java.util.Arrays;
+
+public class CMaterias {
+	public void calificar() {
+		Scanner Leer = new Scanner(System.in);
+	}
+
+	public boolean buscarAlumno(String nombre) {
+		String[] nombres = { "Marta", "Ana", "Luis", "Rodrigo", "Virginia", "Pepe" };
+		return Arrays.asList(nombres).contains(nombre);
+	}
+}

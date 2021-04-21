@@ -1,0 +1,63 @@
+import java.util.Scanner;
+
+interface Implementador {
+	void operacion();
+}
+
+/** primera implementacion de Implementador **/
+class ImplementacionA implements Implementador {
+	public void operacion() {
+		System.out.println("Esta es la implementacion A");
+	}
+}
+
+/** segunda implementacion de Implementador **/
+class ImplementacionB implements Implementador {
+	public void operacion() {
+		System.out.println("Esta es una implementacion de B");
+	}
+}
+
+/** interfaz de abstracción **/
+interface Abstraccion {
+	void operacion();
+}
+
+/** clase refinada que implementa la abstraccion **/
+class AbstraccionRefinada implements Abstraccion {
+	private Implementador implementador;
+
+	public AbstraccionRefinada(Implementador implementador) {
+		this.implementador = implementador;
+	}
+
+	public void operacion() {
+		implementador.operacion();
+	}
+}
+
+/** aplicacion que usa el patrón Bridge **/
+
+public class Main {
+
+	public static void main(String[] args) {
+		Scanner Leer = new Scanner(System.in);
+		System.out.println("PATRON DE DISEÑO BRIDGE: ");
+		System.out.println("\tMENÚ: \nSeleccione una opcion: \n 1)Materia Teorica \n 2)Materia Practica:");
+		String opcion = Leer.next();
+		if (opcion.equals("1")) {
+			Abstraccion bridge = new AbstraccionRefinada(new ImplementacionA());
+		} else {
+			if (opcion.equals("2")) {
+
+			} else
+				System.out.println("Saliendo del sistema....");
+		}
+		Abstraccion[] abstracciones = new Abstraccion[2];
+		abstracciones[0] = new AbstraccionRefinada(new ImplementacionA());
+		abstracciones[1] = new AbstraccionRefinada(new ImplementacionB());
+		for (Abstraccion abstraccion : abstracciones)
+			abstraccion.operacion();
+	}
+
+}

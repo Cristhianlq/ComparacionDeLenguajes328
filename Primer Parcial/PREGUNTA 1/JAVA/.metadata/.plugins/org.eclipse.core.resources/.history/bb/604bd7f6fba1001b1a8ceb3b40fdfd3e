@@ -1,0 +1,11 @@
+
+public class Fachada {
+	private CalificaM califica = new CalificaM();
+
+	public void aproboReprobo() {
+		if (califica.Calificar())
+			System.out.println("APROBO");
+		else
+			System.out.println("REPROBO");
+	}
+}

@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class CalificaM {
+	public void Calificar() {
+		Scanner Leer = new Scanner(System.in);
+		System.out.println("Introduce la cantidad de nota a calificar: ");
+		int cantNota = Leer.nextInt();
+		int nota = 0;
+		for (int i = 0; i < cantNota; i++) {
+			System.out.println("Introduce la nota " + (i + 1) + " del alumno PEPE: ");
+			nota += Leer.nextInt();
+		}
+		if (nota >= 51)
+			System.out.println("APROBO");
+		else
+			System.out.println("REPROBO");
+
+	}
+}

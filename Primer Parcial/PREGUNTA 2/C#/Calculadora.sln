@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "WindowsFormsApplication1\Calculadora.csproj", "{89B1F5BA-5BFD-4A2D-B82F-978F55F063F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases", "ClassLibrary1\Clases.csproj", "{4EAAEC6C-75A8-4A0D-AC08-F4E2E8B88D9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89B1F5BA-5BFD-4A2D-B82F-978F55F063F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B1F5BA-5BFD-4A2D-B82F-978F55F063F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B1F5BA-5BFD-4A2D-B82F-978F55F063F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B1F5BA-5BFD-4A2D-B82F-978F55F063F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EAAEC6C-75A8-4A0D-AC08-F4E2E8B88D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EAAEC6C-75A8-4A0D-AC08-F4E2E8B88D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EAAEC6C-75A8-4A0D-AC08-F4E2E8B88D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EAAEC6C-75A8-4A0D-AC08-F4E2E8B88D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

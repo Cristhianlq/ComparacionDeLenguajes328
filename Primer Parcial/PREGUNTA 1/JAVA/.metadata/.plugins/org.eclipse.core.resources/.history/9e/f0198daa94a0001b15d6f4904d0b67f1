@@ -1,0 +1,9 @@
+import java.util.Arrays;
+
+public class CMaterias {
+
+	public boolean buscarAlumno(String nombre) {
+		String[] nombres = { "Marta", "Ana", "Luis", "Rodrigo", "Virginia", "Pepe" };
+		return Arrays.asList(nombres).contains(nombre);
+	}
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="Abstraccion"/>
+    <fullyQualifiedTypeName name="AbstraccionRefinada"/>
+    <fullyQualifiedTypeName name="ImplementacionA"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="CalificaM"/>
+    <fullyQualifiedTypeName name="Fachada"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="Fachada.calificar"/>
+    <fullyQualifiedTypeName name="Fachada.validarCalificacion"/>
+    <fullyQualifiedTypeName name="Fachada.Facade"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.Vector"/>
+</qualifiedTypeNameHistroy>

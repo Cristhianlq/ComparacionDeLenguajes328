@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+public class Materia {
+//	public String nombre;
+//
+//	public Materia(String nombre) {
+//		this.nombre = nombre;
+//	}
+	public boolean nombreM() {
+		Scanner Leer = new Scanner(System.in);
+		System.out.println("Introduzca el nombre de la materia");
+
+		return true;
+	}
+}
